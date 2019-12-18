@@ -6,7 +6,7 @@ const FONT_SIZE_BASE = 16;
 type Weight = { [key: string]: TextStyle['fontWeight'] };
 
 export default {
-  fontFamily: '',
+  fontFamily: 'Cochin',
   font: {
     size: {
       xsmall: normalize(FONT_SIZE_BASE - 4),
